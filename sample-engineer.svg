@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Sample engineer portrait">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dcefe4"/>
+      <stop offset="1" stop-color="#f5e5bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#background)"/>
+  <circle cx="200" cy="150" r="72" fill="#c9875d"/>
+  <path d="M128 148c2-63 33-96 77-96 49 0 76 36 70 99-17-10-31-28-39-45-25 27-61 42-108 42z" fill="#263b32"/>
+  <path d="M72 400c8-103 54-155 128-155s120 52 128 155" fill="#0b5d3b"/>
+  <path d="M151 250l49 56 49-56" fill="#fff"/>
+  <path d="M178 281h44l-10 119h-24z" fill="#f5b942"/>
+</svg>
